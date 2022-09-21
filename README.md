@@ -1,2 +1,3 @@
-# info2180-lab1
-Web Development Course
+# INFO2180 Lab 1
+This is Lab 1 for Rajahni Cunningham
+
